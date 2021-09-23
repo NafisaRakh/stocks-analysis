@@ -10,7 +10,7 @@ To perform this Analysis I copied the code that was needed to create the input b
 
 Finally, When I run the macro for both years to confirm that our stock analysis outputs, a message box similar to the images below popped up and showed the elapsed time for 2017 and 2018. Running our fully 2017 and 2018 data stock analysis give us an elapsed run time for each year, below our results. The outputs for the 2017 and 2018 stock analyses in the VBA_Challenge.xlsm workbook match the outputs from the AllStockAnalysis in the module
 
-![image](Resources/Screenshot (1).png) 
+![image](/Resources/Screenshot (1).png) 
 
    ##  Summary: In a summary statement, address the following questions.
     
