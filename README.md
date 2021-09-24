@@ -14,7 +14,7 @@ Finally, when I run the macro for both years to confirm that our stock analysis 
 
 ![date](Resources/VBA_Challenge_2017.png)
 
-
+![date](Resources/VBA_Challenge_2018.png)
 
 In addition, in our resources folder and below you can see the final Stock Analysis Results by pop-up messages showing the elapsed run time for the script are saved as VBA_Challenge_2017.png and VBA_Challenge_2018.png and the outputs for the 2017 and 2018 stock analyses in the VBA_Challenge.xlsm workbook match the outputs from the AllStockAnalysis in the module.
 
