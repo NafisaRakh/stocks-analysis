@@ -7,8 +7,7 @@
 
     To perform this Analysis I copied the code that was needed to create the input box, chart headers, ticker array, and to activate the appropriate worksheet. The steps were then listed out in order to set the structure for the refactoring. Below is the instruction and code as written in the file.  
 ![date](Resources/VBA_Ch_Screenshot_1.png) 
-
-image
+![date](Resources/VBA_Ch_Screenshot_2.png)
 
 Finally, when I run the macro for both years to confirm that our stock analysis outputs, a message box similar to the images below popped up and showed the elapsed time for 2017 and 2018. Running our fully 2017 and 2018 data stock analysis gave us an elapsed run time for each year, below our results. Finally, the biggest benefit that occurred as a result of the refactoring was an decrease in macro run time. The original analysis took approximately one second to run, whereas our new analysis only took about a 6 of the time (approximately 0.25 seconds) to run. Attached above are the screenshots that indicate the run time for our new analysis.
 image
