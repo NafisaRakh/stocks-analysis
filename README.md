@@ -11,7 +11,10 @@
 ![date](Resources/VBA_Ch_Screenshot_1.png) 
 
 Finally, when I run the macro for both years to confirm that our stock analysis outputs, a message box similar to the images below popped up and showed the elapsed time for 2017 and 2018. Running our fully 2017 and 2018 data stock analysis gave us an elapsed run time for each year, below our results. Finally, the biggest benefit that occurred as a result of the refactoring was an decrease in macro run time. The original analysis took approximately one second to run, whereas our new analysis only took about a 6 of the time (approximately 0.25 seconds) to run. Attached above are the screenshots that indicate the run time for our new analysis.
-image
+
+![date](Resources/VBA_Challenge_2017.png)
+
+
 
 In addition, in our resources folder and below you can see the final Stock Analysis Results by pop-up messages showing the elapsed run time for the script are saved as VBA_Challenge_2017.png and VBA_Challenge_2018.png and the outputs for the 2017 and 2018 stock analyses in the VBA_Challenge.xlsm workbook match the outputs from the AllStockAnalysis in the module.
 
